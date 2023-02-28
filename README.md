@@ -1,11 +1,15 @@
-- Hi, I’m @sspirig
-- I’m interested in Unity, web developpement
-- I’m currently learning C#, python, html5 and css2
-- I’m collaborating on a Unity project
+**Short Description - FR**
+- Salut, je suis @sspirig.
+- Je travaille actuellement sur un projet Unity en 2D.
+- J'apprends actuellement C#, python, html & css, javascript et MySQL.
+
+**Short Description - EN**
+- Hi, I’m @sspirig.
+- I’m working currently on a 2D Unity project.
+- I’m currently learning C#, python, html & css, javascript and MySQL.
+
+ **.- Contact -.**
 - How to reach me -> santiago.spirig@gmail.com
 - Student e-mail -> santiago.sprg@eduge.ch
 
-<!---
-sspirig/sspirig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
